@@ -50,8 +50,8 @@ function logResults() {
 
     _.forEach(foundErrors, function (error) {
         console.log(error.code, ":", error.url);
-        console.log("\t", error.originalMessage);
-        console.log("\t", error.message);
+        console.log("Original:\t" + error.originalMessage);
+        console.log("Processed:\t" + error.message);
     });
 }
 

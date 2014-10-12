@@ -1,0 +1,320 @@
+setting callback, processed 22.988505747126435%
+setting callback, processed 39.08045977011494%
+setting callback, processed 55.74712643678161%
+setting callback, processed 55.74712643678161%
+setting callback, processed 75.86206896551724%
+setting callback, processed 91.95402298850574%
+Total messages: 174
+404s encountered: 104
+E001 : http://jslinterrors.com/bad-option:-a
+Original:	Bad option: '{a}'.
+Processed:	bad-option:-a
+E002 : http://jslinterrors.com/bad-option-value
+Original:	Bad option value.
+Processed:	bad-option-value
+E003 : http://jslinterrors.com/expected-a-json-value
+Original:	Expected a JSON value.
+Processed:	expected-a-json-value
+E004 : http://jslinterrors.com/input-is-neither-a-string-nor-an-array-of-strings
+Original:	Input is neither a string nor an array of strings.
+Processed:	input-is-neither-a-string-nor-an-array-of-strings
+E005 : http://jslinterrors.com/input-is-empty
+Original:	Input is empty.
+Processed:	input-is-empty
+E006 : http://jslinterrors.com/unexpected-early-end-of-program
+Original:	Unexpected early end of program.
+Processed:	unexpected-early-end-of-program
+E008 : http://jslinterrors.com/strict-violation
+Original:	Strict violation.
+Processed:	strict-violation
+E012 : http://jslinterrors.com/const-a-is-initialized-to-undefined
+Original:	const '{a}' is initialized to 'undefined'.
+Processed:	const-a-is-initialized-to-undefined
+E014 : http://jslinterrors.com/a-regular-expression-literal-can-be-confused-with-
+Original:	A regular expression literal can be confused with '/='.
+Processed:	a-regular-expression-literal-can-be-confused-with-
+E016 : http://jslinterrors.com/invalid-regular-expression
+Original:	Invalid regular expression.
+Processed:	invalid-regular-expression
+E018 : http://jslinterrors.com/unbegun-comment
+Original:	Unbegun comment.
+Processed:	unbegun-comment
+E019 : http://jslinterrors.com/unmatched-a
+Original:	Unmatched '{a}'.
+Processed:	unmatched-a
+E020 : http://jslinterrors.com/expected-a-to-match-b-from-line-c-and-instead-saw-d
+Original:	Expected '{a}' to match '{b}' from line {c} and instead saw '{d}'.
+Processed:	expected-a-to-match-b-from-line-c-and-instead-saw-d
+E021 : http://jslinterrors.com/expected-a-and-instead-saw-b
+Original:	Expected '{a}' and instead saw '{b}'.
+Processed:	expected-a-and-instead-saw-b
+E022 : http://jslinterrors.com/line-breaking-error-a
+Original:	Line breaking error '{a}'.
+Processed:	line-breaking-error-a
+E023 : http://jslinterrors.com/missing-a
+Original:	Missing '{a}'.
+Processed:	missing-a
+E024 : http://jslinterrors.com/unexpected-a
+Original:	Unexpected '{a}'.
+Processed:	unexpected-a
+E025 : http://jslinterrors.com/missing-:-on-a-case-clause
+Original:	Missing ':' on a case clause.
+Processed:	missing-:-on-a-case-clause
+E026 : http://jslinterrors.com/missing-to-match-from-line-a
+Original:	Missing '}' to match '{' from line {a}.
+Processed:	missing-to-match-from-line-a
+E027 : http://jslinterrors.com/missing-%5D-to-match-%5B-from-line-a
+Original:	Missing ']' to match '[' from line {a}.
+Processed:	missing-]-to-match-[-from-line-a
+E028 : http://jslinterrors.com/illegal-comma
+Original:	Illegal comma.
+Processed:	illegal-comma
+E030 : http://jslinterrors.com/expected-an-identifier-and-instead-saw-a
+Original:	Expected an identifier and instead saw '{a}'.
+Processed:	expected-an-identifier-and-instead-saw-a
+E032 : http://jslinterrors.com/expected-a-small-integer-or-false-and-instead-saw-a
+Original:	Expected a small integer or 'false' and instead saw '{a}'.
+Processed:	expected-a-small-integer-or-false-and-instead-saw-a
+E033 : http://jslinterrors.com/expected-an-operator-and-instead-saw-a
+Original:	Expected an operator and instead saw '{a}'.
+Processed:	expected-an-operator-and-instead-saw-a
+E035 : http://jslinterrors.com/missing-property-name
+Original:	Missing property name.
+Processed:	missing-property-name
+E036 : http://jslinterrors.com/expected-to-see-a-statement-and-instead-saw-a-block
+Original:	Expected to see a statement and instead saw a block.
+Processed:	expected-to-see-a-statement-and-instead-saw-a-block
+E040 : http://jslinterrors.com/each-value-should-have-its-own-case-label
+Original:	Each value should have its own case label.
+Processed:	each-value-should-have-its-own-case-label
+E041 : http://jslinterrors.com/unrecoverable-syntax-error
+Original:	Unrecoverable syntax error.
+Processed:	unrecoverable-syntax-error
+E043 : http://jslinterrors.com/too-many-errors
+Original:	Too many errors.
+Processed:	too-many-errors
+E045 : http://jslinterrors.com/invalid-for-each-loop
+Original:	Invalid for each loop.
+Processed:	invalid-for-each-loop
+E046 : http://jslinterrors.com/a-yield-statement-shall-be-within-a-generator-function-(with-syntax:-%60function*%60)
+Original:	A yield statement shall be within a generator function (with syntax: `function*`)
+Processed:	a-yield-statement-shall-be-within-a-generator-function-(with-syntax:-`function*`)
+E048 : http://jslinterrors.com/let-declaration-not-directly-within-block
+Original:	Let declaration not directly within block.
+Processed:	let-declaration-not-directly-within-block
+E049 : http://jslinterrors.com/a-a-cannot-be-named-b
+Original:	A {a} cannot be named '{b}'.
+Processed:	a-a-cannot-be-named-b
+E050 : http://jslinterrors.com/mozilla-requires-the-yield-expression-to-be-parenthesized-here
+Original:	Mozilla requires the yield expression to be parenthesized here.
+Processed:	mozilla-requires-the-yield-expression-to-be-parenthesized-here
+E051 : http://jslinterrors.com/regular-parameters-cannot-come-after-default-parameters
+Original:	Regular parameters cannot come after default parameters.
+Processed:	regular-parameters-cannot-come-after-default-parameters
+E052 : http://jslinterrors.com/unclosed-template-literal
+Original:	Unclosed template literal.
+Processed:	unclosed-template-literal
+W002 : http://jslinterrors.com/value-of-a-may-be-overwritten-in-ie-8-and-earlier
+Original:	Value of '{a}' may be overwritten in IE 8 and earlier.
+Processed:	value-of-a-may-be-overwritten-in-ie-8-and-earlier
+W008 : http://jslinterrors.com/a-leading-decimal-point-can-be-confused-with-a-dot:-a
+Original:	A leading decimal point can be confused with a dot: '{a}'.
+Processed:	a-leading-decimal-point-can-be-confused-with-a-dot:-a
+W009 : http://jslinterrors.com/the-array-literal-notation-%5B%5D-is-preferable
+Original:	The array literal notation [] is preferable.
+Processed:	the-array-literal-notation-[]-is-preferable
+W014 : http://jslinterrors.com/bad-line-breaking-before-a
+Original:	Bad line breaking before '{a}'.
+Processed:	bad-line-breaking-before-a
+W016 : http://jslinterrors.com/unexpected-use-of-a
+Original:	Unexpected use of '{a}'.
+Processed:	unexpected-use-of-a
+W017 : http://jslinterrors.com/bad-operand
+Original:	Bad operand.
+Processed:	bad-operand
+W018 : http://jslinterrors.com/confusing-use-of-a
+Original:	Confusing use of '{a}'.
+Processed:	confusing-use-of-a
+W021 : http://jslinterrors.com/a-is-a-function
+Original:	'{a}' is a function.
+Processed:	a-is-a-function
+W023 : http://jslinterrors.com/expected-an-identifier-in-an-assignment-and-instead-saw-a-function-invocation
+Original:	Expected an identifier in an assignment and instead saw a function invocation.
+Processed:	expected-an-identifier-in-an-assignment-and-instead-saw-a-function-invocation
+W024 : http://jslinterrors.com/expected-an-identifier-and-instead-saw-a-(a-reserved-word)
+Original:	Expected an identifier and instead saw '{a}' (a reserved word).
+Processed:	expected-an-identifier-and-instead-saw-a-(a-reserved-word)
+W026 : http://jslinterrors.com/inner-functions-should-be-listed-at-the-top-of-the-outer-function
+Original:	Inner functions should be listed at the top of the outer function.
+Processed:	inner-functions-should-be-listed-at-the-top-of-the-outer-function
+W027 : http://jslinterrors.com/unreachable-a-after-b
+Original:	Unreachable '{a}' after '{b}'.
+Processed:	unreachable-a-after-b
+W028 : http://jslinterrors.com/label-a-on-b-statement
+Original:	Label '{a}' on {b} statement.
+Processed:	label-a-on-b-statement
+W030 : http://jslinterrors.com/expected-an-assignment-or-function-call-and-instead-saw-an-expression
+Original:	Expected an assignment or function call and instead saw an expression.
+Processed:	expected-an-assignment-or-function-call-and-instead-saw-an-expression
+W033 : http://jslinterrors.com/missing-semicolon
+Original:	Missing semicolon.
+Processed:	missing-semicolon
+W035 : http://jslinterrors.com/empty-block
+Original:	Empty block.
+Processed:	empty-block
+W036 : http://jslinterrors.com/unexpected-*member-a
+Original:	Unexpected /*member '{a}'.
+Processed:	unexpected-*member-a
+W039 : http://jslinterrors.com/a-is-not-allowed
+Original:	'{a}' is not allowed.
+Processed:	a-is-not-allowed
+W040 : http://jslinterrors.com/possible-strict-violation
+Original:	Possible strict violation.
+Processed:	possible-strict-violation
+W041 : http://jslinterrors.com/use-a-to-compare-with-b
+Original:	Use '{a}' to compare with '{b}'.
+Processed:	use-a-to-compare-with-b
+W042 : http://jslinterrors.com/avoid-eol-escaping
+Original:	Avoid EOL escaping.
+Processed:	avoid-eol-escaping
+W043 : http://jslinterrors.com/bad-escaping-of-eol
+Original:	Bad escaping of EOL. Use option multistr if needed.
+Processed:	bad-escaping-of-eol
+W044 : http://jslinterrors.com/bad-or-unnecessary-escaping
+Original:	Bad or unnecessary escaping.
+Processed:	bad-or-unnecessary-escaping
+W045 : http://jslinterrors.com/bad-number-a
+Original:	Bad number '{a}'.
+Processed:	bad-number-a
+W046 : http://jslinterrors.com/dont-use-extra-leading-zeros-a
+Original:	Don't use extra leading zeros '{a}'.
+Processed:	dont-use-extra-leading-zeros-a
+W047 : http://jslinterrors.com/a-trailing-decimal-point-can-be-confused-with-a-dot:-a
+Original:	A trailing decimal point can be confused with a dot: '{a}'.
+Processed:	a-trailing-decimal-point-can-be-confused-with-a-dot:-a
+W048 : http://jslinterrors.com/unexpected-control-character-in-regular-expression
+Original:	Unexpected control character in regular expression.
+Processed:	unexpected-control-character-in-regular-expression
+W049 : http://jslinterrors.com/unexpected-escaped-character-a-in-regular-expression
+Original:	Unexpected escaped character '{a}' in regular expression.
+Processed:	unexpected-escaped-character-a-in-regular-expression
+W050 : http://jslinterrors.com/javascript-url
+Original:	JavaScript URL.
+Processed:	javascript-url
+W052 : http://jslinterrors.com/unexpected-a
+Original:	Unexpected '{a}'.
+Processed:	unexpected-a
+W057 : http://jslinterrors.com/weird-construction
+Original:	Weird construction. Is 'new' necessary?
+Processed:	weird-construction
+W060 : http://jslinterrors.com/document
+Original:	document.write can be a form of eval.
+Processed:	document
+W062 : http://jslinterrors.com/wrap-an-immediate-function-invocation-in-parens-to-assist-the-reader-in-understanding-that-the-expression-is-the-result-of-a-function,-and-not-the-function-itself
+Original:	Wrap an immediate function invocation in parens to assist the reader in understanding that the expression is the result of a function, and not the function itself.
+Processed:	wrap-an-immediate-function-invocation-in-parens-to-assist-the-reader-in-understanding-that-the-expression-is-the-result-of-a-function,-and-not-the-function-itself
+W063 : http://jslinterrors.com/math-is-not-a-function
+Original:	Math is not a function.
+Processed:	math-is-not-a-function
+W064 : http://jslinterrors.com/missing-new-prefix-when-invoking-a-constructor
+Original:	Missing 'new' prefix when invoking a constructor.
+Processed:	missing-new-prefix-when-invoking-a-constructor
+W066 : http://jslinterrors.com/implied-eval
+Original:	Implied eval. Consider passing a function instead of a string.
+Processed:	implied-eval
+W067 : http://jslinterrors.com/bad-invocation
+Original:	Bad invocation.
+Processed:	bad-invocation
+W068 : http://jslinterrors.com/wrapping-non-iife-function-literals-in-parens-is-unnecessary
+Original:	Wrapping non-IIFE function literals in parens is unnecessary.
+Processed:	wrapping-non-iife-function-literals-in-parens-is-unnecessary
+W069 : http://jslinterrors.com/%5Ba%5D-is-better-written-in-dot-notation
+Original:	['{a}'] is better written in dot notation.
+Processed:	[a]-is-better-written-in-dot-notation
+W071 : http://jslinterrors.com/this-function-has-too-many-statements
+Original:	This function has too many statements. ({a})
+Processed:	this-function-has-too-many-statements
+W073 : http://jslinterrors.com/blocks-are-nested-too-deeply
+Original:	Blocks are nested too deeply. ({a})
+Processed:	blocks-are-nested-too-deeply
+W074 : http://jslinterrors.com/this-functions-cyclomatic-complexity-is-too-high
+Original:	This function's cyclomatic complexity is too high. ({a})
+Processed:	this-functions-cyclomatic-complexity-is-too-high
+W077 : http://jslinterrors.com/expected-a-single-parameter-in-set-a-function
+Original:	Expected a single parameter in set {a} function.
+Processed:	expected-a-single-parameter-in-set-a-function
+W078 : http://jslinterrors.com/setter-is-defined-without-getter
+Original:	Setter is defined without getter.
+Processed:	setter-is-defined-without-getter
+W084 : http://jslinterrors.com/expected-a-conditional-expression-and-instead-saw-an-assignment
+Original:	Expected a conditional expression and instead saw an assignment.
+Processed:	expected-a-conditional-expression-and-instead-saw-an-assignment
+W086 : http://jslinterrors.com/expected-a-break-statement-before-a
+Original:	Expected a 'break' statement before '{a}'.
+Processed:	expected-a-break-statement-before-a
+W089 : http://jslinterrors.com/the-body-of-a-for-in-should-be-wrapped-in-an-if-statement-to-filter-unwanted-properties-from-the-prototype
+Original:	The body of a for in should be wrapped in an if statement to filter unwanted properties from the prototype.
+Processed:	the-body-of-a-for-in-should-be-wrapped-in-an-if-statement-to-filter-unwanted-properties-from-the-prototype
+W091 : http://jslinterrors.com/a-is-out-of-scope
+Original:	'{a}' is out of scope.
+Processed:	a-is-out-of-scope
+W093 : http://jslinterrors.com/did-you-mean-to-return-a-conditional-instead-of-an-assignment?
+Original:	Did you mean to return a conditional instead of an assignment?
+Processed:	did-you-mean-to-return-a-conditional-instead-of-an-assignment?
+W094 : http://jslinterrors.com/unexpected-comma
+Original:	Unexpected comma.
+Processed:	unexpected-comma
+W096 : http://jslinterrors.com/the-a-key-may-produce-unexpected-results
+Original:	The '{a}' key may produce unexpected results.
+Processed:	the-a-key-may-produce-unexpected-results
+W100 : http://jslinterrors.com/this-character-may-get-silently-deleted-by-one-or-more-browsers
+Original:	This character may get silently deleted by one or more browsers.
+Processed:	this-character-may-get-silently-deleted-by-one-or-more-browsers
+W101 : http://jslinterrors.com/line-is-too-long
+Original:	Line is too long.
+Processed:	line-is-too-long
+W103 : http://jslinterrors.com/the-a-property-is-deprecated
+Original:	The '{a}' property is deprecated.
+Processed:	the-a-property-is-deprecated
+W104 : http://jslinterrors.com/a-is-available-in-es6-(use-esnext-option)-or-mozilla-js-extensions-(use-moz)
+Original:	'{a}' is available in ES6 (use esnext option) or Mozilla JS extensions (use moz).
+Processed:	a-is-available-in-es6-(use-esnext-option)-or-mozilla-js-extensions-(use-moz)
+W105 : http://jslinterrors.com/unexpected-a-in-b
+Original:	Unexpected {a} in '{b}'.
+Processed:	unexpected-a-in-b
+W106 : http://jslinterrors.com/identifier-a-is-not-in-camel-case
+Original:	Identifier '{a}' is not in camel case.
+Processed:	identifier-a-is-not-in-camel-case
+W107 : http://jslinterrors.com/script-url
+Original:	Script URL.
+Processed:	script-url
+W113 : http://jslinterrors.com/control-character-in-string:-a
+Original:	Control character in string: {a}.
+Processed:	control-character-in-string:-a
+W114 : http://jslinterrors.com/avoid-a
+Original:	Avoid {a}.
+Processed:	avoid-a
+W116 : http://jslinterrors.com/expected-a-and-instead-saw-b
+Original:	Expected '{a}' and instead saw '{b}'.
+Processed:	expected-a-and-instead-saw-b
+W118 : http://jslinterrors.com/a-is-only-available-in-mozilla-javascript-extensions-(use-moz-option)
+Original:	'{a}' is only available in Mozilla JavaScript extensions (use moz option).
+Processed:	a-is-only-available-in-mozilla-javascript-extensions-(use-moz-option)
+W119 : http://jslinterrors.com/a-is-only-available-in-es6-(use-esnext-option)
+Original:	'{a}' is only available in ES6 (use esnext option).
+Processed:	a-is-only-available-in-es6-(use-esnext-option)
+W120 : http://jslinterrors.com/you-might-be-leaking-a-variable-(a)-here
+Original:	You might be leaking a variable ({a}) here.
+Processed:	you-might-be-leaking-a-variable-(a)-here
+W121 : http://jslinterrors.com/extending-prototype-of-native-object:-a
+Original:	Extending prototype of native object: '{a}'.
+Processed:	extending-prototype-of-native-object:-a
+W123 : http://jslinterrors.com/a-is-already-defined-in-outer-scope
+Original:	'{a}' is already defined in outer scope.
+Processed:	a-is-already-defined-in-outer-scope
+W124 : http://jslinterrors.com/a-generator-function-shall-contain-a-yield-statement
+Original:	A generator function shall contain a yield statement.
+Processed:	a-generator-function-shall-contain-a-yield-statement
+W125 : http://jslinterrors.com/this-line-contains-non-breaking-spaces:-http:-jshint
+Original:	This line contains non-breaking spaces: http://jshint.com/doc/options/#nonbsp
+Processed:	this-line-contains-non-breaking-spaces:-http:-jshint
